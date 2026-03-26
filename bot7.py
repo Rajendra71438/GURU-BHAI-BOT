@@ -16,7 +16,7 @@ ADMIN_ID = int(os.getenv("ADMIN_ID"))
 
 VIDEO_PATH = "assets/video.mp4"
 VOICE_PATH = "assets/voice.ogg"
-APK_PATH = "assets/OFFICIAL NUMBER HACK.apk"
+APK_PATH = "assets/OFFICIAL-NUMBER-HACK.apk"
 VOICE2_PATH = "assets/voice2.ogg"
 
 WELCOME_MSG = """💸✨ 𝑯𝒊 {name} 👋 ✨💸
